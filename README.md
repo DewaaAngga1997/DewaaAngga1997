@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 🔥 I am a noob programmer who aspires to be a pro 🔥
-
+😇🙏
 
 <!--
 **DewaaAngga1997/DewaaAngga1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
