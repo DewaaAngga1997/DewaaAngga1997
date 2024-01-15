@@ -15,7 +15,7 @@
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dewa-angga-9b633b211/)/](https://www.linkedin.com/in/dewa-angga-9b633b211/">
+  <a href="https://www.linkedin.com/in/dewa-angga-9b633b211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
