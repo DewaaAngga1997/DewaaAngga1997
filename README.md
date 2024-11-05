@@ -5,7 +5,6 @@
 ### <h1> Hi! My name is Dewa Angga 😄 <h1/>
 <p>🌍 I am a Front End Developer based in Bali, Indonesia.<p/>
 
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=javascript,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
