@@ -3,7 +3,7 @@
 </h1>
 
 ### <h1> Hi! My name is Dewa Angga 😄 <h1/>
-<p>🌍 I am a Front End Developer based in Bali, Indonesia 🇮🇩.</p>
+<p>🌍 I am a Front End Developer based in Bali, Indonesia.</p>
 
 ### Skills
 
