@@ -2,7 +2,7 @@
   <img src="https://github.com/DewaaAngga1997/DewaaAngga1997/blob/main/name.svg" alt="Dewa Angga" />
 </h1>
 <h1 align ="center"> Hi! My name is Dewa Angga 😄 <h1/>
-<p style="font-size: 12px;">🌍 I am a Front End Developer based in Bali, Indonesia.</p>
+<p font-size="12px">🌍 I am a Front End Developer based in Bali, Indonesia.</p>
 
 ### Skills
 
