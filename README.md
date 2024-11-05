@@ -4,7 +4,7 @@
 
 ### Hi! My name is Dewa Angga 😄
 
-🌍  I am a Front End based in Bali, Indonesia.
+🌍  I am a Front End Developer based in Bali, Indonesia.
 <br/>
 
 ### Skills
